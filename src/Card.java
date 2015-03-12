@@ -3,6 +3,7 @@
  *
  * <code>Card</code> represents a playing card.
  */
+ 
 public class Card {
 
 	/**
